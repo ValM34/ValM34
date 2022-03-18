@@ -23,7 +23,7 @@ Lien du projet : https://github.com/ValM34/P5_01_lienGithub
 
 _Projet 5 : Node.js - MongoDB  
 Pour le cinquième projet, on nous fournissait cette fois-ci le frontend et je devais réaliser le backend. J'ai notamment dû réaliser les controllers avec mongoose pour communiquer avec une base de données noSQL, j'ai aussi configuré un middleware d'authentification avec json web token. Aussi j'ai dû gérer des fichiers d'image avec multer.
-Lien du projet : https://github.com/ValM34/P5_01_lienGithub  
+Lien du projet : https://github.com/ValM34/Projet-6  
 
 _Projet 6 : React.js - Node.js - MySQL  
 Pour le cinquième et dernier projet, j'ai dû réaliser un mini réseau social d'entreprise. Je devais tout faire de A à Z, du backend au frontend. J'ai aussi dû configurer une base de données MySQL. Il m'était imposé d'utiliser un framework pour ce projet, j'ai donc choisis d'utiliser React. Il y avait donc une page d'accueil et une page avec un fil d'actualité. Il fallait que les utilisateurs puissent modérer leurs publications/commentaires et supprimer leur compte si l'envie leur en venait. J'ai aussi ajouté un modérateur capable de modérer toutes les publications et tous les commentaires.
