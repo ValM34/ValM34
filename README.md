@@ -1,4 +1,4 @@
-<b>Bonjour, je suis Valentin Moreau développeur web junior et je vais vous présenter les différents projets que j'ai réalisé durant mes 2 formations chez OpenClassrooms</b>
+## Bonjour, je suis Valentin Moreau développeur web junior et je vais vous présenter les différents projets que j'ai réalisé durant mes 2 formations chez OpenClassrooms
 
 ---
 ## Formation développeur d'application PHP/Symfony en alternance chez Datasolution  
