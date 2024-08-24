@@ -1,6 +1,5 @@
-## Bonjour, je suis Valentin Moreau développeur web junior et je vais vous présenter les différents projets que j'ai réalisé durant mes 2 formations chez OpenClassrooms
+# Mes projets réalisés chez OpenClassrooms
 
----
 ## Formation développeur d'application PHP/Symfony en alternance chez Datasolution  
 
 #### Projet 1  
@@ -29,7 +28,11 @@ Lien vers l'application : https://snowtricks.valentin-moreau.com
 Réalisation d'une API/RESTFULL B to B ecommerce en suivant les 3 niveaux du modèle de maturité Richardson
 Lien vers l'application : https://snowtricks.valentin-moreau.com  
 
----
+### Projet 7 
+![](https://img.shields.io/badge/-PHP-%23777BB4) ![](https://img.shields.io/badge/-MySQL-%234479A1) ![](https://img.shields.io/badge/-Symfony-%23000000)  
+Amélioration d'une application Symfony todolist existante (MVP) : migration vers la dernière version LTS de symfony et ajout de fonctionnalités manquantes
+Lien vers l'application : https://github.com/ValM34/OC-DA-P8 
+
 ## Formation développeur web - Openclassrooms  
 
 #### Projet 1  
