@@ -18,6 +18,14 @@ Lien GitHub : https://github.com/ValM34/DAJR-6
 Réalisation d'un système de recherche/tri de recettes de cuisine   
 Lien GitHub : https://github.com/ValM34/DAJR-7  
 
+#### Projet 4  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-JS-%23F7DF1E)  
+Correction de bugs/tests et création de tests unitaires et d'intégration sur une app existante  
+Lien GitHub : https://github.com/ValM34/dajr-p9  
+
+#### Projet 5  
+"Définissez les besoins pour une app de soutien scolaire" ce projet ne comporte pas de code et demande de prendre un peu de hauteur pour planifier la création d'un site web (user stories, diaggrames de cas d'usage, maquettes du site, tableau Kanban). Il m'a permis de prendre en main figma et trello.  
+
 ## Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023 
 
 #### Projet 1  
