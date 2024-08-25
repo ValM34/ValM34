@@ -26,6 +26,21 @@ Lien GitHub : https://github.com/ValM34/dajr-p9
 #### Projet 5  
 "Définissez les besoins pour une app de soutien scolaire" ce projet ne comporte pas de code et demande de prendre un peu de hauteur pour planifier la création d'un site web (user stories, diaggrames de cas d'usage, maquettes du site, tableau Kanban). Il m'a permis de prendre en main figma et trello.  
 
+#### Projet 6  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-React-%2361DAFB)  
+Création d'une application web avec React et React router  
+Lien GitHub : https://github.com/ValM34/p11-OC-frontend-kasa  
+
+#### Projet 7  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-React-%2361DAFB)  
+Création d'un tableau de bord d'analytics et prise en main de Recharts  
+Lien GitHub : https://github.com/ValM34/p12-OC-frontend-SportSee  
+
+#### Projet 8  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-React-%2361DAFB)  
+Création d'un site de transactions bancaires sous React en utilisant Redux. Dans ce projet j'ai dû alimenter une documentation swagger qui permettrait de communiquer des routes que doit créer le développeur backend du projet.  
+Lien GitHub : https://github.com/ValM34/OCDAJR-P13  
+
 ## Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023 
 
 #### Projet 1  
