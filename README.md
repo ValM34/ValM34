@@ -37,9 +37,16 @@ Création d'un tableau de bord d'analytics et prise en main de Recharts
 Lien GitHub : https://github.com/ValM34/p12-OC-frontend-SportSee  
 
 #### Projet 8  
-![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-React-%2361DAFB)  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-React-%2361DAFB)  ![](https://img.shields.io/badge/-Redux-%23764abc)  
 Création d'un site de transactions bancaires sous React en utilisant Redux. Dans ce projet j'ai dû alimenter une documentation swagger qui permettrait de communiquer des routes que doit créer le développeur backend du projet.  
 Lien GitHub : https://github.com/ValM34/OCDAJR-P13  
+
+#### Projet 9  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-React-%2361DAFB) ![](https://img.shields.io/badge/-Redux-%23764abc) ![](https://img.shields.io/badge/-MUI-%233399ff)  
+Migration d'une application jQuery vers une application React. Création d'un composant "table" npm et prise en main de la librairie Material UI.  
+Lien GitHub (application React) : https://github.com/ValM34/OCDAJR-P14  
+Lien GitHub (composant npm) : https://github.com/ValM34/DAJR-P14-Composant-npm  
+Lien npm : https://www.npmjs.com/package/dajr-valentin-p14-new  
 
 ## Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023 
 
