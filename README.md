@@ -1,6 +1,14 @@
 # Mes projets réalisés chez OpenClassrooms
 
-## Formation développeur d'application PHP/Symfony en alternance chez Datasolution  
+## Formation Développeur d'application - JavaScript React - 2023/2024 
+
+#### Projet 1 
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-JS-%23F7DF1E)  
+Réalisation d'une page web contenant une popup de réservation avec validation des inputs  
+Lien du projet : https://github.com/ValM34/DAJR-P4  
+Accès au rendu : https://valm34.github.io/DAJR-P4/  
+
+## Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023 
 
 #### Projet 1  
 ![](https://img.shields.io/badge/-WORDPRESS-%23207196)  
@@ -33,7 +41,7 @@ Lien vers l'application : https://snowtricks.valentin-moreau.com
 Amélioration d'une application Symfony todolist existante (MVP) : migration vers la dernière version LTS de symfony et ajout de fonctionnalités manquantes
 Lien vers l'application : https://github.com/ValM34/OC-DA-P8 
 
-## Formation développeur web - Openclassrooms  
+## Formation développeur web - Openclassrooms - 2021/2022 
 
 #### Projet 1  
 ![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6)  
