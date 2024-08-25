@@ -8,6 +8,16 @@ Réalisation d'une page web contenant une popup de réservation avec validation 
 Lien du projet : https://github.com/ValM34/DAJR-P4  
 Accès au rendu : https://valm34.github.io/DAJR-P4/  
 
+#### Projet 2  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-Sass-%23CC6699) ![](https://img.shields.io/badge/-JS-%23F7DF1E)  
+Réalisation d'un site web dynamique qui référence une liste de photographes et de leurs photos que j'ai affiché grâce à javascript  
+Lien GitHub : https://github.com/ValM34/DAJR-6  
+
+#### Projet 3  
+![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-Sass-%23CC6699) ![](https://img.shields.io/badge/-JS-%23F7DF1E)  
+Réalisation d'un système de recherche/tri de recettes de cuisine   
+Lien GitHub : https://github.com/ValM34/DAJR-7  
+
 ## Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023 
 
 #### Projet 1  
