@@ -1,6 +1,6 @@
 # Mes projets réalisés chez OpenClassrooms
 
-## Formation Développeur d'application - JavaScript React - 2023/2024 
+## Formation Développeur d'application - JavaScript React - 2023/2024  
 
 #### Projet 1 
 ![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-JS-%23F7DF1E)  
