@@ -73,8 +73,9 @@ Lien vers l'application : https://snowtricks.valentin-moreau.com
 
 #### Projet 6  
 ![](https://img.shields.io/badge/-PHP-%23777BB4) ![](https://img.shields.io/badge/-MySQL-%234479A1) ![](https://img.shields.io/badge/-Symfony-%23000000)  
-Réalisation d'une API/RESTFULL B to B ecommerce en suivant les 3 niveaux du modèle de maturité Richardson
-Lien vers l'application : https://snowtricks.valentin-moreau.com  
+Réalisation d'une API/RESTFULL B to B ecommerce en suivant les 3 niveaux du modèle de maturité Richardson  
+Lien github : https://github.com/ValM34/OP-DA-P7  
+Lien vers l'application : https://bilemo.valentin-moreau.com/api/doc  
 
 ### Projet 7 
 ![](https://img.shields.io/badge/-PHP-%23777BB4) ![](https://img.shields.io/badge/-MySQL-%234479A1) ![](https://img.shields.io/badge/-Symfony-%23000000)  
