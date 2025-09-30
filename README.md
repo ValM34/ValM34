@@ -1,6 +1,17 @@
-# Mes projets réalisés chez OpenClassrooms
+# Bonjour👋
+Je suis Valentin Moreau, en reconversion de développement web depuis 2021. J’aime autant créer des interfaces claires et accessibles que développer des API.  
+Au fil de mes projets, j’ai travaillé sur de la refonte de sites e-commerce, la création de blogs et d’applications interactives.  
 
-## Formation Développeur d'application - JavaScript React - 2023/2024  
+Ici, vous trouverez mes projets persos, mes expérimentations et un aperçu de mon parcours. Mon objectif est simple : continuer à apprendre, progresser, et surtout coder des choses utiles et bien pensées.  
+
+## Me contacter
+[Linkedin](https://exemple.com)
+[Portfolio](https://exemple.com)
+[Gitlab](https://exemple.com)
+
+## Mes projets réalisés chez OpenClassrooms
+<details>
+  <summary>Formation Développeur d'application - JavaScript React - 2023/2024</summary>
 
 #### Projet 1 
 ![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6) ![](https://img.shields.io/badge/-JS-%23F7DF1E)  
@@ -47,8 +58,12 @@ Migration d'une application jQuery vers une application React. Création d'un co
 Lien GitHub (application React) : https://github.com/ValM34/OCDAJR-P14  
 Lien GitHub (composant npm) : https://github.com/ValM34/DAJR-P14-Composant-npm  
 Lien npm : https://www.npmjs.com/package/dajr-valentin-p14-new  
+</details>
 
-## Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023 
+
+
+<details>
+  <summary>Formation Développeur d'application PHP/Symfony en alternance chez Datasolution - 2022/2023</summary>
 
 #### Projet 1  
 ![](https://img.shields.io/badge/-WORDPRESS-%23207196)  
@@ -81,8 +96,11 @@ Lien vers l'application : https://bilemo.valentin-moreau.com/api/doc
 ![](https://img.shields.io/badge/-PHP-%23777BB4) ![](https://img.shields.io/badge/-MySQL-%234479A1) ![](https://img.shields.io/badge/-Symfony-%23000000)  
 Amélioration d'une application Symfony todolist existante (MVP) : migration vers la dernière version LTS de symfony et ajout de fonctionnalités manquantes
 Lien vers l'application : https://github.com/ValM34/OC-DA-P8 
+</details>
 
-## Formation développeur web - Openclassrooms - 2021/2022 
+
+<details>
+  <summary>Formation développeur web - Openclassrooms - 2021/2022</summary>
 
 #### Projet 1  
 ![](https://img.shields.io/badge/-HTML-%23e96228) ![](https://img.shields.io/badge/-css-%231572B6)  
@@ -116,3 +134,4 @@ Lien du projet : https://github.com/ValM34/Projet-6
 ![](https://img.shields.io/badge/-React-%2361DAFB) ![](https://img.shields.io/badge/-Node.js-%23339933) ![](https://img.shields.io/badge/-MySQL-%234479A1)    
 Pour le cinquième et dernier projet, j'ai dû réaliser un mini réseau social d'entreprise. Je devais tout faire de A à Z, du backend au frontend. J'ai aussi dû configurer une base de données MySQL. Il m'était imposé d'utiliser un framework pour ce projet, j'ai donc choisis d'utiliser React. Il y avait donc une page d'accueil et une page avec un fil d'actualité. Il fallait que les utilisateurs puissent modérer leurs publications/commentaires et supprimer leur compte si l'envie leur en venait. J'ai aussi ajouté un modérateur capable de modérer toutes les publications et tous les commentaires.  
 Lien du projet : https://github.com/ValM34/groupomania
+</details>
