@@ -5,9 +5,9 @@ Au fil de mes projets, j’ai travaillé sur de la refonte de sites e-commerce, 
 Ici, vous trouverez mes projets persos, mes expérimentations et un aperçu de mon parcours. Mon objectif est simple : continuer à apprendre, progresser, et surtout coder des choses utiles et bien pensées.  
 
 ## Me contacter
-[Linkedin]([https://exemple.com](https://www.linkedin.com/in/valentin-moreau-devweb/))
+[Linkedin]([https://exemple.com](https://www.linkedin.com/in/valentin-moreau-devweb/)
 [Portfolio](https://valentin-moreau.com)
-[Gitlab]([https://exemple.com](https://gitlab.com/ValM34))
+[Gitlab]([https://exemple.com](https://gitlab.com/ValM34)
 
 ## Mes projets réalisés chez OpenClassrooms
 <details>
